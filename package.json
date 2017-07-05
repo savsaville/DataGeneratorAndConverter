@@ -1,0 +1,16 @@
+{
+    "name": "dekiru",
+    "version": "1.0.0",
+    "description": "data about people who purchase products",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Takahiro!",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.15.3",
+        "json2csv": "^3.8.0",
+        "synaptic": "^1.0.12"
+    }
+}
