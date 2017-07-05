@@ -1,9 +1,10 @@
 ## Installation  
+  ````  
  $ npm init
  $ npm install synaptic --save
 ( $ npm install request cheerio --save  )
  $npm install json2csv --save
-
+ ````  
 ## Create JSON & CSV dummy data  
   In create.js file, Setup the JSON keys which you want to create and create either JSON & CSV format by following command.
   ````  
